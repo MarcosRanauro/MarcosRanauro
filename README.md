@@ -38,3 +38,10 @@
  	<a href="https://www.facebook.com/marcos.ranauro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcosranauro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </p>
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcosRanauro}/count.svg" /></p> 
+<br></div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosRanauro&bg_color=7FDEFF&color=000000&line=1098F7&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
