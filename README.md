@@ -1,7 +1,7 @@
 ## Ola, eu sou Marcos Ranauro!
 
 - 🌱 Estudando desenvolvimento web.
-- 📫 Contate-me no email: marcosranauro@hotmail.com
+- 📫 Contate-me no email: marcosranauro85@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 ## 💻 Skills
