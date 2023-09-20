@@ -21,6 +21,11 @@
   <img alt="Marcos-Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-Testing-Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-Mocha.js" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-Chai.js" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-Sinon.js" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Linux-Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
