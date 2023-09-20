@@ -30,6 +30,7 @@
   <img alt="Marcos-Linux-Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img alt="Marcos-ESlint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
   </p>
   
   ## 🌟 Github Stats
