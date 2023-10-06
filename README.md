@@ -35,16 +35,6 @@
   
   ## 🌟 Github Stats
 
-<div align="center">
-  <a href="https://github.com/MarcosRanauro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosRanauro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRanauro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=MarcosRanauro&theme=discord&row=1" alt="Marcos Ranauro" />
-</p>
-
 ##
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosRanauro&theme=chartreuse-dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
