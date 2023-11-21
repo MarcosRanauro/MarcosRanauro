@@ -32,12 +32,6 @@
   <img alt="Marcos-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img alt="Marcos-ESlint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
   </p>
-  
-  ## 🌟 Github Stats
-
-##
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosRanauro&theme=chartreuse-dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcosranauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
